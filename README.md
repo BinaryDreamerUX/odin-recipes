@@ -11,6 +11,7 @@ It demonstrates foundational HTML skills, including working with boilerplates, l
 - WSL2 
 - Markdown
 - VSC 
+- W3C Nu Html Checker
 
 ## Installation Instructions
 <!-- Update these instructions later to reflect the final version that won't need a repo clone. Delete this comment then, too. -->
